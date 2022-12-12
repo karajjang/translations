@@ -1,0 +1,23 @@
+skip_link: 'Leyp til høvuðsinnihald'
+# This word identifies a software or web project as being in the early stages of development
+alpha: 'Alpha'
+disclaimer: 'Síðan er undir menning. Tú er vælkomin at <a href="mailto:%email_contacts.suggestions">viðmerkja
+  </a> síðuna.'
+# This is a 'tag line' for a website - usually a catchy one-sentence elaboration of a site's title
+tag_line: '17 mál skulu broyta okkara heim'
+high_contrast: 'Stórur kontrastur'
+default_contrast: 'Vanligur kontrastur'
+enable_high_contrast: 'Virkja stóran kontrast'
+disable_high_contrast: 'Óvirkja stóran kontrast'
+toggle_search: 'Leitiskiftari. Trýst fyri at víðka ella minka leititeigin.'
+toggle_menu: 'Valmyndaskiftari. Trýst fyri at víðka ella minka valmyndina.'
+internet_explorer_message_title: Hesin internet-kagin er ikki longur stuðlaður
+internet_explorer_message: Vit hava varnast, at tú/tit brúkar/brúka internet Explorer
+  at vitja hesa heimasíðuna. Internet Microsoft tekur nú Explorer stigvíst aftur.
+  Tessvegna stuðlar henda heimasíðan ikki longur nakra útgávu av Internet Explorer.
+  Nakrir týðandi liðir á hesi síðuni fara ikki at rigga. Ein nýggjari kagi skuldi
+  verið nýttur, so sum Edge, Chrome, Firefox, ella Safari. Spyr avvarðandi kt-deil,
+  um trupulleikar eru at skifta til annan kaga.
+show_menu: Vís valmynd til at finna runt
+hide_menu: Krógva valmynd til at finna runt
+logo_title: Far/Farið til húspage
