@@ -4,5 +4,5 @@ download_all: 모든 데이터 다운로드
 zip_file: ZIP file
 intro_title: 미사용(intro_title)
 intro_body: 미사용(intro_body)
-indicators_download_url: https://kostat-gi.github.io/site/assets/indicators_ko.xlsx
+indicators_download_url: https://karajjang.github.io/site/assets/indicators_ko.xlsx
 indicators_download: 전체 지표 리스트
