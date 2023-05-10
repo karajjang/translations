@@ -65,7 +65,8 @@ async function init() {
     search_bar.addEventListener('keyup', function(e) {
       if (this.value.length > 3) {
         // Escape colons since we use them in translation keys.
-        const search_query = this.value.replace(":", "\\:");
+        // edit23-05-10 const search_query = this.value.replace(":", "\\:");
+        const search_query = this.value.replace(":", "\\:").toUpperCase();
         const matches = idx.search(search_query);
         let results = '<p>No translations found.</p>';
         if (matches.length) {
