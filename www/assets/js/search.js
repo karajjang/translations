@@ -60,13 +60,16 @@ async function init() {
       }, this);
     });
     // Apply behavior to search input.
+    alert('start');
     const search_bar = document.getElementById('search-bar');
     const search_results = document.getElementById('search-results');
+    alert('1-->'+search_results);
     search_bar.addEventListener('keyup', function(e) {
       if (this.value.length > 3) {
         // Escape colons since we use them in translation keys.
         // edit23-05-10 const search_query = this.value.replace(":", "\\:");
         const search_query = this.value.replace(":", "\\:").toUpperCase();
+        alert('1-->'search_query);
         const matches = idx.search(search_query);
         let results = '<p>No translations found.</p>';
         if (matches.length) {
